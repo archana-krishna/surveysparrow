@@ -288,7 +288,7 @@ color: #444C58;
 z-index: 1000;
 position:relative;
 height: 28px;
-left: 37.64%;
+left: 17.64%;
 right: 33.68%;
 top: calc(50% - 28px/2 - 3497.5px);
 
@@ -508,4 +508,426 @@ line-height: 32px;
 text-align: center;
 
 color: #444C58;
+}
+.enim3{
+    position: relative;
+width: 260px;
+height: 58px;
+left: 177px;
+ top: 102px; 
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 32px;
+/* or 114% */
+
+text-align: center;
+
+color: #444C58;
+}
+.enim4{
+
+    position: relative;
+    width: 188px;
+    height: 58px;
+    left: 645px;
+    top: 45px; 
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    /* or 114% */
+    
+    text-align: center;
+    
+    color: #444C58;
+}
+.enim5{
+    position: relative;
+    width: 167px;
+    height: 58px;
+    left: 1079px;
+     top: -10px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    /* or 114% */
+    
+    text-align: center;
+    
+    color: #444C58;
+}
+.enim6{
+    position: relative;
+width: 338px;
+height: 89px;
+left: 138px;
+top: 26px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+
+color: #444C58;
+}
+.enim7{
+    position: relative;
+width: 338px;
+height: 87px;
+left: 570px;
+top: -65px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+
+color: #444C58;
+}
+.enim8{
+    position: relative;
+width: 338px;
+height: 119px;
+left: 994px;
+top: -152px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+
+color: #444C58;
+}
+.img1{
+    position: relative;
+left: 19.01%;
+right: 68.52%;
+top: 15.34%;
+bottom: 72.55%;
+
+
+background-image: url("./");
+}
+.img2{
+    position: relative;
+    left: 25.87%;
+    right: 40.95%;
+    top: 24.59%;
+    bottom: 71.61%;
+}
+.img3{
+    
+    position:relative;
+left: 7.81%;
+right: 56.88%;
+top: 20.07%;
+bottom: 69.66%;
+}
+.img4{
+    position:relative;
+left: 14.85%;
+right: 55.18%;
+top: 19.04%;
+bottom: 70.43%;
+}
+.group578{
+    position: relative;
+    width: 417px;
+    height: 485.9px;
+    left: 223px;
+    /* top: 2151px; */
+}
+.group576{
+    position: relative;
+width: 990px;
+height: 485.9px;
+/* left: 223px; */
+top: 0px;
+}
+.group585{
+    position: relative;
+width: 449px;
+height: 310px;
+left: 764px;
+top: 2239px;
+}
+.tex1{
+    position: relative;
+height: 138px;
+left: 15.06%;
+right: 27.64%;
+top: calc(50% - 138px/2 - 2678.5px);
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 69px;
+/* or 115% */
+
+
+color: #6174B9;
+}
+.tex2{
+    position: relative;
+    left: 53.06%;
+    right: 15.76%;
+    top: 27.48%;
+    bottom: 71.79%;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 32px;
+    /* or 168% */
+    
+    
+    color: #444C58;
+}
+
+/* page 2 chat bot */
+.chat-bot{
+    width: 400px;
+    height: 450px;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0px 5px 13px rgba(0, 0, 0, 0.17397);
+    margin-left:830px;
+}
+
+.client{
+    display: flex;
+    /* justify-content: start; */
+    align-items: center;
+    height: 80px;
+    background-color: #7F8AC5;
+    padding: 15px;
+
+   
+}
+.client img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.client-info {
+    color: #fff;
+    padding: 5px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.client-info p {
+    color: #fff;
+    /* font-weight: bold; */
+    font-size: 0.7em;
+}
+
+
+/* input section */
+
+.chat-input {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 65px;
+    background-color: #fff;
+    padding: 15px;
+    overflow: hidden;
+    position: relative;
+    bottom: 0;
+    top:305px;
+}
+
+.chat-input input {
+    width: calc(100% - 40px);
+    height: 100%;
+    background-color: #4f5d7321;
+    border-radius: 50px;
+    color: #000;
+    font-size: 1.2em;
+    padding: 0 15px;
+}
+
+.send-btn {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    overflow: hidden;
+    position: relative;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
+
+.send-btn:active {
+    transform: scale(0.85);
+}
+
+.send-btn img {
+    width: 100%;
+    height: 100%;
+}
+/* .container{
+display:flex
+} */
+
+/* 
+chat button */
+
+.chat-btn {
+    width: 60px;
+    height: 60px;
+    /* border-radius: 50%; */
+     /* border-bottom-right-radius: 50%; */
+    
+    border-top-left-radius: 40%;
+    border-top-right-radius:40%;
+    border-bottom-left-radius: 40%;
+    background-color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    bottom: 20px;
+    margin-left:1000px;
+    margin-top: 20px; ;
+}
+
+.chat-btn img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 5px;
+    transition: 0.4s ease-in-out;
+}
+
+.chat-btn:hover img {
+    transform: rotate(30deg);
+}
+
+
+.nextpic{
+    /* position:relative; */
+    
+   
+    
+}
+
+/* part4 */
+.head1{
+/* Ut enim ad minima */
+
+
+position: relative;
+width: 620px;
+height: 60px;
+left: 437px;
+top: 100px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 64px;
+/* or 133% */
+
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #444C58;
+}
+
+.para1{
+/* At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis */
+
+
+position:relative;
+width: 500px;
+height: 60px;
+left: 497px;
+top: 95px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+text-align: center;
+
+color: #444C58;
+}
+
+/* footer */
+
+.footer{
+/* Rectangle */
+position:relative;
+width:1574px;
+height:79px;
+top: 200px;
+background: #6174B9;
+}
+
+.f0{
+    /* Copyright */
+position:relative;
+height: 15px;
+left: 17.61%;
+right: 87.71%;
+/* top: calc(50% - 15px/2 + 1754px); */
+
+font-family: ProximaNova;
+font-size: 12px;
+line-height: 15px;
+top:31px;
+/* identical to box height, or 125% */
+
+
+color: #FFFFFF;
+}
+.f1{
+    /* maxeon Inc. 2018-19 */
+position: relative;
+height: 15px;
+left: 50.82%;
+right: 62.22%;
+top: calc(50% - 15px/2 + 1754px);
+
+font-family: ProximaNova;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height, or 125% */
+
+
+color: #FFFFFF;
 }
